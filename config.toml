@@ -25,11 +25,9 @@ theme = "hugo.386"
     # showhugo = true
 
     # Urls for social networks
-    # facebook = "https://facebook.com"
-    # twitter = "https://twitter.com"
     linkedin = "https://www.linkedin.com/company/vikesec"
     github = "https://github.com/vikesec"
-    # gitlab = "https://gitlab.com"
+	discord = "https://discord.gg/tx74ywQpRj"
 
     # Enables or disables the loading animations. false activates them. Default is false.
     loadfastload = false
