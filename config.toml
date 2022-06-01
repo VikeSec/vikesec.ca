@@ -1,4 +1,4 @@
-baseURL = "vikesec.github.io"
+baseURL = "https://vikesec.ca"
 languageCode = "en-us"
 title = "VikeSec"
 DefaultContentLanguage = "en" # Change this to change the site's language
