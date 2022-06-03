@@ -10,10 +10,10 @@ theme = "hugo.386"
     mainpagetitle = "VikeSec"
 
     # The subtitle to display under the title in the home page
-    mainpagesubtitle = "We are an information security club at the University of Victoria" 
+    mainpagesubtitle = "Come learn about security!" 
 
     # The description of your website. It will be displayed in the home page
-    mainpagedesc = "jasdh;fdsah;l asdfl;ksdahfl;ksdah;flhasd;lfkh ahlsdfhasdkfhasdlkjfhlkasjdhf sadhfasdlkjfhasdlkjhflkj asdfh asdhflka."
+    mainpagedesc = "We are an information security club at the University of Victoria. Our mission is to make learning cybersecurity accessible and fun! Check out some of our events below and join the Discord!"
 
     # # The name to display in the copyright section in the footer
     # copyrightname = "JM Fergeau"
