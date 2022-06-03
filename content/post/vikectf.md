@@ -15,4 +15,4 @@ aliases = ["vikectf"]
 
 # VikeCTF
 
-Hello, world!
+More info soon, stay tuned!
